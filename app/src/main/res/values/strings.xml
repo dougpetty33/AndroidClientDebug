@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Sprinkler</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_debug">Debug</string>
+    <string name="send_hint">Command to be sent</string>
+    <string name="recieved_title">Received String</string>
+    <string name="s_button">Send Cmd String</string>
+    <string name="m_cast">MultiCast</string>
+    <string name="u_cast">UniCast</string>
+
+</resources>

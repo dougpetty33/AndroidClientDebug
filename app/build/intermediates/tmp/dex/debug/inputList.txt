@@ -1,0 +1,5 @@
+C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClient1\app\build\intermediates\classes\debug
+C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClient1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-14ec4e09f3c00966c8ce46bd86d0151185931164.jar
+C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClient1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-11442d05fe1434a48cf8b6a042a28f2b185672c3.jar
+C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClient1\app\build\intermediates\pre-dexed\debug\classes-2bae8a086f3776ed62d2cd5a6a6b76aead7eac1d.jar
+C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClient1\app\build\intermediates\pre-dexed\debug\classes-083f29042c1e4cf70f016bd6fbd9dbb3765a9023.jar

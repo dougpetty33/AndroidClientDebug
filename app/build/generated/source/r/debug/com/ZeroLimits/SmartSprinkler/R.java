@@ -1311,6 +1311,7 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020033;
     }
     public static final class id {
+        public static final int ID_button=0x7f080041;
         public static final int action_bar=0x7f080031;
         public static final int action_bar_activity_content=0x7f080000;
         public static final int action_bar_container=0x7f080030;
@@ -1324,19 +1325,20 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f08002e;
         public static final int action_mode_bar_stub=0x7f08002d;
         public static final int action_mode_close_button=0x7f080020;
-        public static final int action_settings=0x7f080047;
+        public static final int action_settings=0x7f08004a;
         public static final int activity_chooser_view_content=0x7f080021;
         public static final int always=0x7f080016;
         public static final int beginning=0x7f080013;
-        public static final int button1=0x7f080046;
+        public static final int button1=0x7f080049;
         public static final int checkbox=0x7f080029;
         public static final int collapseActionView=0x7f080017;
+        public static final int debug=0x7f08003f;
         public static final int decor_content_parent=0x7f08002f;
         public static final int default_activity_button=0x7f080024;
         public static final int dialog=0x7f08001b;
         public static final int disableHome=0x7f08000c;
         public static final int dropdown=0x7f08001c;
-        public static final int editText1=0x7f080045;
+        public static final int editText1=0x7f080048;
         public static final int edit_query=0x7f080033;
         public static final int end=0x7f080014;
         public static final int expand_activities_button=0x7f080022;
@@ -1348,18 +1350,18 @@ containing a value of this type.
         public static final int image=0x7f080023;
         public static final int listMode=0x7f080009;
         public static final int list_item=0x7f080025;
-        public static final int mcast=0x7f08003f;
+        public static final int mcast=0x7f080047;
         public static final int middle=0x7f080015;
         public static final int never=0x7f080019;
         public static final int none=0x7f08000e;
         public static final int normal=0x7f08000a;
         public static final int progress_circular=0x7f080005;
         public static final int progress_horizontal=0x7f080006;
-        public static final int r_field_widg=0x7f080042;
-        public static final int r_title_widg=0x7f080044;
+        public static final int r_field_widg=0x7f080044;
         public static final int radio=0x7f08002b;
+        public static final int radioGroup=0x7f080045;
         public static final int s_button_widg=0x7f080040;
-        public static final int s_field_widg=0x7f080043;
+        public static final int s_field_widg=0x7f080042;
         public static final int search_badge=0x7f080035;
         public static final int search_bar=0x7f080034;
         public static final int search_button=0x7f080036;
@@ -1370,6 +1372,7 @@ containing a value of this type.
         public static final int search_plate=0x7f080039;
         public static final int search_src_text=0x7f08003a;
         public static final int search_voice_btn=0x7f08003e;
+        public static final int send_ip=0x7f080043;
         public static final int shortcut=0x7f08002a;
         public static final int showCustom=0x7f08000f;
         public static final int showHome=0x7f080010;
@@ -1378,7 +1381,7 @@ containing a value of this type.
         public static final int submit_area=0x7f08003c;
         public static final int tabMode=0x7f08000b;
         public static final int title=0x7f080027;
-        public static final int ucast=0x7f080041;
+        public static final int ucast=0x7f080046;
         public static final int up=0x7f080008;
         public static final int useLogo=0x7f080012;
         public static final int withText=0x7f08001a;
@@ -1438,12 +1441,13 @@ containing a value of this type.
         public static final int action_settings=0x7f0a0010;
         public static final int app_name=0x7f0a0011;
         public static final int hello_world=0x7f0a0012;
-        public static final int m_cast=0x7f0a0013;
-        public static final int recieved_title=0x7f0a0014;
-        public static final int s_button=0x7f0a0015;
-        public static final int send_hint=0x7f0a0016;
-        public static final int title_activity_debug=0x7f0a0017;
-        public static final int u_cast=0x7f0a0018;
+        public static final int ident=0x7f0a0013;
+        public static final int m_cast=0x7f0a0014;
+        public static final int recieved_title=0x7f0a0015;
+        public static final int s_button=0x7f0a0016;
+        public static final int send_hint=0x7f0a0017;
+        public static final int title_activity_debug=0x7f0a0018;
+        public static final int u_cast=0x7f0a0019;
     }
     public static final class style {
         /** 

@@ -16,18 +16,18 @@
         <dex dex="C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClientDebug\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-14ec4e09f3c00966c8ce46bd86d0151185931164.jar" />
     </item>
     <item
-        jar="C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClientDebug\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClientDebug\app\build\intermediates\pre-dexed\debug\classes-078fe20a8d82f3d5a9419bafecc7edcb1f05082f.jar" />
-    </item>
-    <item
         jar="C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClientDebug\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
         <dex dex="C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClientDebug\app\build\intermediates\pre-dexed\debug\classes-e7ee4f236652784b1ba92efc124ff2efd891f447.jar" />
+    </item>
+    <item
+        jar="C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClientDebug\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\dpetty.CONTROL4\AndroidStudioProjects\AndroidClientDebug\app\build\intermediates\pre-dexed\debug\classes-078fe20a8d82f3d5a9419bafecc7edcb1f05082f.jar" />
     </item>
 
 </items>

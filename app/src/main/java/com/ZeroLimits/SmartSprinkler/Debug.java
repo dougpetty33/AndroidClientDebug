@@ -75,13 +75,12 @@ public class Debug extends Activity {
                 public void onClick(View v) {
 
                     try {
-
                         sIP.setText(Communicator.find_device());
 
                     } catch (UnknownHostException e) {
                         e.printStackTrace();
                     } catch (InterruptedException e) {
-                        e.printStackTrace();
+                       e.printStackTrace();
                     }
                 }
         });

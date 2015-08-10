@@ -9,7 +9,7 @@ import java.net.InetAddress;
 import java.net.MulticastSocket;
 import java.net.Socket;
 import java.net.UnknownHostException;
-
+import java.net.HttpURLConnection;
 /**
  * Created by dpetty on 8/4/2015.
  */
